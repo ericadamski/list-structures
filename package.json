@@ -1,0 +1,15 @@
+{
+  "name": "list-data-structures",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Eric Adamski <er.adamski@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "mdx-deck index.mdx",
+    "build": "mdx-deck build index.mdx"
+  },
+  "dependencies": {
+    "@mdx-deck/themes": "^3.0.8",
+    "mdx-deck": "^3.0.9"
+  }
+}
